@@ -1,6 +1,6 @@
 Exercício realizado como meio avaliativo para a disciplina de POO (programação orientada a objetos), do curso de ciência da computação.
 
-#Enunciado:
+# Enunciado:
 Conceito: Polimorfismo paramétrico
 
 1. A partir do diagrama de classes apresentado a seguir, resolva as questões:
