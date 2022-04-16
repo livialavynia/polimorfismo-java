@@ -4,7 +4,9 @@ Exercício realizado como meio avaliativo para a disciplina de POO (programaçã
 Conceito: Polimorfismo paramétrico
 
 1. A partir do diagrama de classes apresentado a seguir, resolva as questões:
+
 a) Implemente essa classe Pilha
+
 b) Crie uma classe PrincipalPilha que contenha o método main. O método deve:
 - Instanciar uma Pilha de String;
 - Empilhar os itens: “PRIMEIRO”, “SEGUNDO” e “TERCEIRO”;
